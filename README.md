@@ -2,6 +2,9 @@
 Python script to interactively decrypt several encrypted PDF files with alternating passwords
 
 Dependencies: os, pypdf
+```
+pip install os pypdf
+```
 
 How to use:
 1. Start script in command line
