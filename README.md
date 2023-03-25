@@ -6,7 +6,8 @@ Dependencies: os, pypdf
 pip install os pypdf
 ```
 
-How to use:
+# How to use:
+
 1. Start script in command line
 ```
 python3 decrypt.py
