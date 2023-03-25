@@ -1,6 +1,8 @@
 # PDF-mass-decrypt
 Python script to interactively decrypt several encrypted PDF files with alternating passwords
 
+Dependencies: os, pypdf
+
 How to use:
 1. Start script in command line
 2. Script asks for:
