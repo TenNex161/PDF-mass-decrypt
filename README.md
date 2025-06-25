@@ -1,3 +1,6 @@
+>[!WARNING]
+>Repository is not being updated and is archived
+
 # PDF-mass-decrypt
 Python script to interactively decrypt several encrypted PDF files with alternating passwords
 
